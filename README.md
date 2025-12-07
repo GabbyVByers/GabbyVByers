@@ -1,6 +1,6 @@
 ## Thanks for visiting my profile! 💗
 I've been on github since 2021, you're currently viewing my new account.  
-My old account: [GabbyByers](https://github.com/GabbyByers "@embed") (Most of my old repositories have already been transferred over here)  
+My old account: [GabbyByers](https://github.com/GabbyByers "@embed") (my old repos have already been transferred over here)  
   
 ### My Coolest Personal Projects:
 [Ray-Tracing with CUDA](https://github.com/GabbyVByers/Path-Tracing-Renderer "@embed") (C++)  
