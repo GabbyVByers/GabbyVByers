@@ -1,3 +1,7 @@
 ### Thanks for visiting my profile! 💗  
-I've been on github since 2021, you're currently viewing my new account!  
-My old account: [GabbyByers](https://github.com/GabbyByers "@embed") (Most of my old repositories have been transferred over here!)
+I've been on github since 2021, you're currently viewing my new account.  
+My old account: [GabbyByers](https://github.com/GabbyByers "@embed") (Most of my old repositories have already been transferred over here)  
+  
+Here are a few of my personal projects I am most proud of:
+[Ray-Tracing with CUDA](https://github.com/GabbyVByers/Path-Tracing-Renderer "@embed")  
+[MNIST Perceptron Neural Network from Scratch](https://github.com/GabbyVByers/Multi-Layer-Perceptron "@embed")  
