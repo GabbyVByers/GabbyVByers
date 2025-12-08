@@ -7,6 +7,6 @@ Currently I'm an Electrical and Computer Engineering student at Oregon State Uni
   
 ### My Favorite Personal Projects:
 [Ray-Tracing with CUDA](https://github.com/GabbyVByers/Path-Tracing-Renderer "@embed") (C++)  
-[MNIST Perceptron Neural Network from Scratch](https://github.com/GabbyVByers/Multi-Layer-Perceptron "@embed") (C++)  
+[MNIST Perceptron](https://github.com/GabbyVByers/Multi-Layer-Perceptron "@embed") a neural network written entirely from scratch (C++)  
 [Compiler](https://github.com/GabbyVByers/Compiler "@embed") and [Assembler](https://github.com/GabbyVByers/Assembler "@embed") for my custom FPGA CPU (C++)  
 [2D Space Flight Simulator](https://github.com/GabbyVByers/Compiler "@embed") within the Earth-Moon System (Python)  
