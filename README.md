@@ -1,5 +1,5 @@
 ## Thanks for visiting my profile! 💗
-I've been on github since 2021, you're currently viewing my new account.  
+I've been on github since 2021, this is my new account.  
 My old account: [GabbyByers](https://github.com/GabbyByers "@embed") (my old repos have already been transferred over here)  
   
 I've been learning and writting C++ for over 5 years, and I've gotten pretty good at it, in my humble optionion :)  
